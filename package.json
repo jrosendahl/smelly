@@ -1,6 +1,6 @@
 {
   "name": "smelly",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Easy to use, write focused, html dom builder",
   "main": "index.js",
   "scripts": {
